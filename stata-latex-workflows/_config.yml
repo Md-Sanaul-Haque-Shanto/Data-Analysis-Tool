@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+title: Stata/LaTeX Workflows
+description: Stata workflows for generating LaTeX output
+
+show_downloads: false
+
+markdown: CommonMarkGhPages
